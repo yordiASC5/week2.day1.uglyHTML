@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+}
+div {
+    color: blue;
+    text-align: center;
+    font-size: 26px;
+    font: Unica One
+}
+
+header {
+    font-size: 72px;
+    font: script;
+}
+
+/*element.style {
+    font-family: cursive;
+}*/
